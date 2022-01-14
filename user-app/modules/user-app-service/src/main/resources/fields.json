@@ -1,0 +1,13 @@
+{
+  "externalId": "id",
+  "name": "nome",
+  "email": "email",
+  "age": "idade",
+  "addresses": "enderecos",
+  "address": "endereco",
+  "number": "numero",
+  "city": "cidade",
+  "state": "estado",
+  "createdDate": "dataCriacao",
+  "lastModifiedDate": "dataModificacao"
+}
